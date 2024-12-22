@@ -1,0 +1,6 @@
+Added update logs
+-add new normal and admin commands
+Added new admin commands
+Prevented possible source of error
+-multi-line names are no longer possible
+Made other, minor improvements

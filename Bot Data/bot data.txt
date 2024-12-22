@@ -1,0 +1,4 @@
+v2.7
+Supported
+910
+24 (12 normal 12 admin)

@@ -1,0 +1,2 @@
+Made minor bugfixes
+Added a new admin command

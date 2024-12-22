@@ -1,0 +1,5 @@
+Changed LimeBot's code structure
+Added many new commands
+-both normal and admin
+Moved LimeBot hosting location
+Changed LimeBot's data storage system

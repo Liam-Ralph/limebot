@@ -1,0 +1,3 @@
+Hello and welcome to LimeBot v2.6!
+Use "name" to change your name,
+and "help" to see a list of available commands.

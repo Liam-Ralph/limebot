@@ -1,0 +1,7 @@
+Added deletion requests
+-to request to delete your account and data
+-added normal and admin commands for this
+Added personal messages
+-admin can now directly message users through LimeBot
+Added command to view what kind of data LimeBot stores about you
+Made various minor improvements
