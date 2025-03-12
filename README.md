@@ -1,3 +1,5 @@
+# This project has been archived.
+
 # LimeBot
 ### Released June 2022
 ### Version 2.7
